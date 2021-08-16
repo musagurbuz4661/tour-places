@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tour-places/static/css/main.e6ab9bb3.chunk.css",
+    "main.js": "/tour-places/static/js/main.e24a42c1.chunk.js",
+    "main.js.map": "/tour-places/static/js/main.e24a42c1.chunk.js.map",
+    "runtime-main.js": "/tour-places/static/js/runtime-main.682dc0ad.js",
+    "runtime-main.js.map": "/tour-places/static/js/runtime-main.682dc0ad.js.map",
+    "static/js/2.a754d05f.chunk.js": "/tour-places/static/js/2.a754d05f.chunk.js",
+    "static/js/2.a754d05f.chunk.js.map": "/tour-places/static/js/2.a754d05f.chunk.js.map",
+    "static/js/3.48e5e1f4.chunk.js": "/tour-places/static/js/3.48e5e1f4.chunk.js",
+    "static/js/3.48e5e1f4.chunk.js.map": "/tour-places/static/js/3.48e5e1f4.chunk.js.map",
+    "index.html": "/tour-places/index.html",
+    "static/css/main.e6ab9bb3.chunk.css.map": "/tour-places/static/css/main.e6ab9bb3.chunk.css.map",
+    "static/js/2.a754d05f.chunk.js.LICENSE.txt": "/tour-places/static/js/2.a754d05f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.682dc0ad.js",
+    "static/js/2.a754d05f.chunk.js",
+    "static/css/main.e6ab9bb3.chunk.css",
+    "static/js/main.e24a42c1.chunk.js"
+  ]
+}
